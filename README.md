@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Notsoepicgamer17
 - 👀 I’m interested in gaming, music production, and programming
-- 🌱 I’m currently learning web development and maybe app development
+- 🌱 I’m currently learning web development and game development with godot
 - 💞️ I’m looking to collaborate on nothing for now
 - 📫 How to reach me: DM me on twitter https://twitter.com/Notsoepicgamer7
 
