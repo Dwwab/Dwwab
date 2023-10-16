@@ -1,8 +1,1 @@
-- 👋 Hi, I’m @Notsoepicgamer17
-- 👀 I’m interested in gaming, music production, and programming
-- I plan to work on a game engine and DAW (what producers use to make music)
-
-<!---
-Notsoepicgamer17/Notsoepicgamer17 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Hi. I'm Dwwab. I have a strong passion in game development. I'm currently working on creating my own game engine and other game tools. I am also learning front end web development and plan to learn back end web development. I really like learning how things work under the hood and creating stuff at a low level. The things I do outside of developing things are music production and learning things like math and science.
